@@ -1,3 +1,10 @@
 pizza 
 pasta
 burger
+<<<<<<< HEAD
+=======
+
+12th fail
+shutter island
+pin
+>>>>>>> movies
